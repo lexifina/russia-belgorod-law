@@ -1,0 +1,11 @@
+{
+  "path": "ru-bel",
+  "code": "RU-BEL",
+  "name": "Belgorod Oblast",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-belgorod-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
