@@ -1,6 +1,6 @@
 # Belgorod Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 11 versions, from 2026-03-04 (latest in force: 2026-10-20) · <http://publication.pravo.gov.ru/documents/block/region31>
+Законы 2026 · 14 versions, from 2026-03-04 (latest in force: 2026-11-10) · <http://publication.pravo.gov.ru/documents/block/region31>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -61,3 +61,10 @@
 | Закон № 86 | [86.md](86.md) | 1 | 2026-10-08 |
 | Закон № 87 | [87.md](87.md) | 1 | 2026-10-08 |
 | Закон № 88 | [88.md](88.md) | 1 | 2026-10-20 |
+| Закон № 89 | [89.md](89.md) | 1 | 2026-11-02 |
+| Закон № 90 | [90.md](90.md) | 1 | 2026-11-05 |
+| Закон № 91 | [91.md](91.md) | 1 | 2026-11-05 |
+| Закон № 92 | [92.md](92.md) | 1 | 2026-11-05 |
+| Закон № 93 | [93.md](93.md) | 1 | 2026-11-05 |
+| Закон № 94 | [94.md](94.md) | 1 | 2026-11-05 |
+| Закон № 95 | [95.md](95.md) | 1 | 2026-11-10 |
