@@ -22,7 +22,8 @@
    ],
    "interval": 3.2,
    "repo": "russia-belgorod-law",
-   "group": "pravo"
+   "group": "pravo",
+   "tz": "Europe/Moscow"
   }
  ]
 }
