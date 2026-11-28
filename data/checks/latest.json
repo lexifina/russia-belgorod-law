@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:07:48Z",
+ "generated": "2026-11-28T06:22:08Z",
  "latest": {
   "pravo-belgorod|russia/belgorod/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1134,
     "source_in_scope": 1134
    },
-   "check_id": "ru-pravo-belgorod-20261127T051526Z",
+   "check_id": "ru-pravo-belgorod-20261128T052344Z",
    "commits": null,
    "corpus": "russia/belgorod/acts",
    "error": null,
-   "finished": "2026-11-27T05:15:56Z",
+   "finished": "2026-11-28T05:24:18Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region31: 1134 law-type documents listed (every page read); 1134 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1134 law-type documents in block region31; newest published 2026-11-10",
    "source": "pravo-belgorod",
-   "started": "2026-11-27T05:15:26Z",
+   "started": "2026-11-28T05:23:44Z",
    "unexplained": 0,
    "update": {
     "parts": []
